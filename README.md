@@ -16,4 +16,4 @@ Une fois ceci fait, créez des dossiers **avec les identifiants des jeux** dont 
 
 ⚠️ **ATTENTION** : il est impératif d'avoir un fichier texte à l'intérieur du dossier du jeu avec le nom de ce jeu (séparez les espaces par des tirets `-` et ne mettez ni majuscules, ni caractères spéciaux) !
 
-Si besoin, référez vous au dossier `0000000000000000` dans le répertoire `titles` (ce dossier est un exemple pour vous montrer comment mettre en place vos cheats).
+Si besoin, référez vous au dossier [`0000000000000000`](https://github.com/Luckyluka17/YCM-Server-Template/tree/main/titles/0000000000000000) dans le répertoire [`titles`](https://github.com/Luckyluka17/YCM-Server-Template/tree/main/titles/) (ce dossier est un exemple pour vous montrer comment mettre en place vos cheats).
