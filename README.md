@@ -4,7 +4,7 @@
 # Yuzu Cheats Manager Server Template
 Ceci est une template que vous pouvez fork pour y mettre vos propres cheats pour Yuzu Cheats Manager.
 
-## Mise en place de votre serveur
+## Mise en place de votre dépôt
 Pour créer votre dépot qui va permettre de télécharger les cheats, vous avez besoin de suivre ce guide dans l'ordre.
 ### Créer le dépôt
 Pour cela, vous devez **poséder** un compte github. Une fois que vous êtes connecté, cliquez sur **Fork**.
@@ -16,7 +16,7 @@ Une fois ceci fait, créez des dossiers **avec les identifiants des jeux** dont 
 
 Si besoin, référez vous au dossier [`0000000000000000`](https://github.com/Luckyluka17/YCM-Server-Template/tree/main/titles/0000000000000000) dans le répertoire [`titles`](https://github.com/Luckyluka17/YCM-Server-Template/tree/main/titles/) (ce dossier est un exemple pour vous montrer comment mettre en place vos cheats).
 
-## Ajouter le serveur sur l'application
+## Ajouter le dépôt sur l'application
 
 Pour ajouter un serveur sur l'application, vous devez ouvrir l'application Yuzu Cheats Manager. Dans le repertoire où ce trouve **YuzuCheatsManager.exe**, vérifiez que vous possèdez le fichier **settings.json**. Si oui, vous pouvez maintenant fermer l'application.
 
